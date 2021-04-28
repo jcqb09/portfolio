@@ -1,32 +1,32 @@
 {
   "main": {
-    "name":"Student Name",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Jacquelyn Bryant",
+    "description":"An intermediate-level computer science student interested in working with Artificial Intelligence.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I'm a rising third-year Cognitive Science (conc. Computer Science) student at the University of Virginia. I'm familiar with Java and Python, and I'm prepared to learn more. I'm also interested in combining my computing knowledge with the humanities.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "student@uvawise.com",
+    "email": "jcb8zrd@virginia.edu",
     "address":{
-      "city":"Charlottesville",
+      "city":"Lorton",
       "state":"Virginia",
-      "zip": "22903"
+      "zip": "22079"
     },
-    "website": "<username>.github.io",
-    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
+    "website": "jcqb09.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1ypqjQ7-dkE4KEJyUQ2Nh8eh3Sy4mPKIy/view?usp=sharing",
     "social":[
       {
         "name":"twitter", 
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/jacquelyynb",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yoururl/",
+        "url":"https://www.linkedin.com/jacquelynbryant/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/githubusername",
+        "url":"http://github.com/jcqb09",
         "className":"fa fa-github"
       }
     ]
@@ -34,29 +34,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
+        "title":"Last 10 Tweets",
+        "category":"Compilation of the last ten tweets posted by a particular twitter profile",
+        "image":"twitter_last10.jpg",
+        "url":"https://github.com/jcqb09/twitter-api"
+      }    ]
   }
 }
